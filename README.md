@@ -25,7 +25,7 @@ python app.py
 If `share=True` is included in the script, Gradio will generate a public `.gradio.live` link like:
 
 ```
-Running on public URL: https://abc123.gradio.live
+Running on public URL: https://101fb1e4f06ccd8ec8.gradio.live
 ```
 
 ---
@@ -69,3 +69,13 @@ sentiment-gradio-app/
 
 - [Gradio](https://gradio.app)
 - [Hugging Face Transformers](https://huggingface.co/transformers/)
+
+---
+
+## 🌐 Deployment Screenshot
+
+Below is an example of the app deployed on a Gradio public link:
+
+![Gradio Deployment](deploy_.png)
+
+This shows the interface users see when accessing your `.gradio.live` app.
