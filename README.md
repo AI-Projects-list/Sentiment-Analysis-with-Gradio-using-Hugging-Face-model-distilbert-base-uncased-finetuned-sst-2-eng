@@ -25,7 +25,7 @@ python app.py
 If `share=True` is included in the script, Gradio will generate a public `.gradio.live` link like:
 
 ```
-[Running on public URL:] (https://101fb1e4f06ccd8ec8.gradio.live)
+Running on public URL: https://101fb1e4f06ccd8ec8.gradio.live
 ```
 
 ---
