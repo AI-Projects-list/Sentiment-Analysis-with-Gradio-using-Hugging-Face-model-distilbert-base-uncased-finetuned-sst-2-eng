@@ -1,7 +1,9 @@
 # 🧠 Sentiment Analysis with Gradio
 
 This project is a simple web app that lets users type in text and returns the sentiment (Positive or Negative) using a pre-trained Hugging Face model.
+Below is an example of the app deployed on a Gradio public link:
 
+![Gradio Deployment](deploy_.png)
 ---
 
 ## 📦 Dependencies
