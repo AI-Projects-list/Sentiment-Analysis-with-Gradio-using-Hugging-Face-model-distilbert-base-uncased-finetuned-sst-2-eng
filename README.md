@@ -4,6 +4,13 @@ This project is a simple web app that lets users type in text and returns the se
 Below is an example of the app deployed on a Gradio public link:
 
 ![Gradio Deployment](deploy_.png)
+
+
+## 🚀 Open in Google Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your_username/your_repo/blob/main/notebooks/example_notebook.ipynb)
+
+
 ---
 
 ## 📦 Dependencies
